@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "bobamo-passport"
   , "description":"A Bobamo plugin to support authentication, via passport"
   , "version": "0.6.0"
@@ -8,4 +9,16 @@
     , "passport-local":"latest"
   }
   
+=======
+    "name": "bobamo-imageupload"
+    , "description":"A plugin for Bobamo that provides image upload public support"
+    , "version": "0.6.0"
+    , "private": false
+    , "dependencies":{
+        "blueimp-file-upload":"latest",
+        "imagemagick":"latest",
+        "fs-extra":"latest"
+    }
+
+>>>>>>> 7de29f5c0fccc3502e9c8c1d20e7fe3f2170d901
 }
