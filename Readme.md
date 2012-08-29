@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Bobamo Passport
 This plugin provides passport authentication support.
 
@@ -45,4 +44,3 @@ Install
 ##Bugs
 * Does not support ref's yet.  This should be supported shortly.
 
->>>>>>> 7de29f5c0fccc3502e9c8c1d20e7fe3f2170d901
